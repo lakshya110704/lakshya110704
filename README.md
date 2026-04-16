@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Lakshya Mehta 👋  
 
-<!--
-**lakshya110704/lakshya110704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer | ML Systems Builder  
 
-Here are some ideas to get you started:
+I’m a final-year B.Tech student in Data Science & Engineering with a strong focus on building real-world backend systems and production-ready machine learning applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Do  
+- Build scalable backend systems using Python, Django, and Flask  
+- Design REST APIs and automation workflows  
+- Develop and deploy ML models (NLP, deep learning)  
+- Work on real-world, data-driven problem solving  
+
+---
+
+## 🔥 Featured Projects  
+
+### 🤖 LexiLite – Legal Clause Classification System  
+- NLP system using SBERT & RoBERTa (~95% accuracy)  
+- Deployed using Django REST APIs for real-time inference  
+- Integrated LLM (Mixtral) for structured explanations  
+
+---
+
+### ⚙️ Multi-Agent Task Automation System  
+- Event-driven backend system integrating Google Calendar, Slack, Twilio  
+- Implemented OAuth, async workflows, retry mechanisms  
+- Reduced manual work by ~60%  
+
+---
+
+### 🏭 Inventory & Production Tracking System  
+- Real-time inventory and workflow tracking system  
+- Built REST APIs and database schemas for production lifecycle  
+- Implemented traceability and role-based access  
+
+---
+
+## 🧠 Tech Stack  
+
+Languages: Python, C++, Java  
+Backend: Django, Flask, REST APIs  
+ML: TensorFlow, PyTorch, NLP  
+Databases: MySQL, MongoDB  
+Tools: Docker, AWS, Git  
+
+---
+
+## 📈 What I’m Looking For  
+I’m actively looking for Backend / ML Engineer roles where I can build scalable systems and work on real-world problems.
+
+---
+
+## 📫 Connect With Me  
+- LinkedIn: https://www.linkedin.com/in/lakshya-me  
+- Email: thislakshya@gmail.com  
+
+--
