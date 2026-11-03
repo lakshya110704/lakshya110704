@@ -16,24 +16,43 @@ I’m a final-year B.Tech student in Data Science & Engineering with a strong fo
 
 ## 🔥 Featured Projects  
 
-### 🤖 LexiLite – Legal Clause Classification System  
-- NLP system using SBERT & RoBERTa (~95% accuracy)  
-- Deployed using Django REST APIs for real-time inference  
-- Integrated LLM (Mixtral) for structured explanations  
+### 💬 [BusinessOS](https://github.com/lakshya110704/BusinessOS) – WhatsApp-native AI for small businesses  
+- Turns Hindi/Hinglish WhatsApp texts and voice notes into orders, payments and reminders  
+- Owner confirms every action; runs on Meta WhatsApp Cloud API, Supabase, OpenAI and Redis  
+- Owner assistant: ask your business anything, from WhatsApp or the CLI  
 
 ---
 
-### ⚙️ Multi-Agent Task Automation System  
+### 🎓 [EduAccess](https://github.com/lakshya110704/EduAccess) – Faculty availability & cabin locator  
+- Live professor availability, walk-in hours and 15-minute appointment slots with no double-booking  
+- Cabin directions: Google Maps to the block, written steps inside  
+- Role-checked student, professor and admin dashboards, with CI and a live deployment  
+
+---
+
+### 🎾 [TennisCoach](https://github.com/lakshya110704/TennisCoach) – On-device iOS tennis coach  
+- Watches you play through the phone camera and gives live spoken cues with a skeleton overlay  
+- Runs entirely on-device; shot-classifier training pipeline verified on real data  
+
+---
+
+### 🤖 [LexiLite](https://github.com/lakshya110704/LexiLite) – Legal contract analyzer  
+- Splits contracts into clauses and flags risky ones with SBERT and RoBERTa models  
+- Plain-English explanations of risky clauses through an LLM (Groq, gpt-oss-120b)  
+- Honest evaluation on CUAD's real clause types with a contract-level train/test split  
+
+---
+
+### ⚙️ [Multi-Agent Task Automation](https://github.com/lakshya110704/TaskAutomation)  
 - Event-driven backend system integrating Google Calendar, Slack, Twilio  
 - Implemented OAuth, async workflows, retry mechanisms  
 - Reduced manual work by ~60%  
 
 ---
 
-### 🏭 Inventory & Production Tracking System  
-- Real-time inventory and workflow tracking system  
-- Built REST APIs and database schemas for production lifecycle  
-- Implemented traceability and role-based access  
+### 🩺 [Repo Health Agent](https://github.com/lakshya110704/repo-health-agent)  
+- Autonomous agent that plans its own investigation of any GitHub repo, calls real tools and recovers from failures  
+- Writes a structured code-health report with no provided dataset  
 
 ---
 
